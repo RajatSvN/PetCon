@@ -14,9 +14,9 @@
 
 <center>
 	<div>
-<img src="/imgs/Home.jpg" height="600" style="margin-left: 100px;" >
-<img src="/imgs/Stats.jpg" height="600">
-<img src="/imgs/Form.jpg" height="600">
-<img src="/imgs/Contri.jpg" height="600">
+<img src="/imgs/Home.jpg" height="400"  >
+<img src="/imgs/Stats.jpg" height="400">
+<img src="/imgs/Form.jpg" height="400">
+<img src="/imgs/Contri.jpg" height="400">
 </div>
 </center>
