@@ -12,10 +12,7 @@
 
 ### Also we used a RAAS(Reforestation as a Service) API lended by digitalhumani.com in which when you buy lives for your pet a tree is planted in some of the reforestation projects located around the world!
 
-<img src="/imgs/Home.jpg" height="24">
-
-![Stats Screen](/imgs/Stats.jpg)
-
-![Form](/imgs/Form.jpg)
-
-![Contribute Screen](/imgs/Contri.jpg)
+<img src="/imgs/Home.jpg" height="400">
+<img src="/imgs/Stats.jpg" height="400">
+<img src="/imgs/Form.jpg" height="400">
+<img src="/imgs/Contri.jpg" height="400">
